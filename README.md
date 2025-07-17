@@ -26,6 +26,7 @@ Generation of text samples for qualitative comparison
 Performance visualization using training loss and accuracy
 
 📊 Models Compared
+
 Model	                  | Strengths                                          |	Limitations
 ---------------------------------------------------------------------------------------------------------------
 RNN	                    | Simple and fast                                    | Struggles with long-term memory
